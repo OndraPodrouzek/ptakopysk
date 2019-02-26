@@ -1,3 +1,7 @@
 dneska je úterı
 a nevstal jsem 
+<<<<<<< HEAD
 tak jsem si øek
+=======
+ku*va ono se to neuloilo?! ne je to v pohodì ? nebo ne?
+>>>>>>> doplneni-autora
